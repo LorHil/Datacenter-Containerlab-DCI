@@ -29,7 +29,7 @@ The following files differ from the original Nokia basic DCI lab. All other conf
 │    ┌──────────────────────────────────────────────────────┐     │
 │    │                      p1 (RR)                         │     │
 │    │               Route Reflector AS 1257                │     │
-│    └──────┬─────────┬─────────┬─────────┬────────┬───────┘      │
+│    └──────┬─────────┬─────────┬─────────┬────────┬────────┘     │
 │           │         │         │         │        │              │
 │        dcgw1     dcgw2     dcgw1     dcgw2      p2              │
 │         dc1       dc1       dc2       dc2      (PE)             │
