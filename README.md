@@ -1,4 +1,4 @@
-# Nokia Basic DCI Lab — Extended with BGP-learned Default Route
+# Nokia Basic DCI Lab — Extended
 
 This repository extends the [Nokia basic DCI lab](https://github.com/srl-labs/nokia-basic-dci-lab) reference topology with a design correction that conditions the default route advertisement in each datacenter gateway on actual WAN reachability, enabling near-seamless failover upon WAN link failure. The extension was developed as part of a master's thesis on decentralised datacenter switching for resilient network fabrics in mission-critical environments, submitted to the University of Amsterdam (OS3) and the Royal Military Academy of Belgium.
 
